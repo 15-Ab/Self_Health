@@ -1,4 +1,4 @@
-### SELH HEALTH
+### SELF HEALTH
 
 Github Link : https://github.com/15-Ab/Self_Health
 
